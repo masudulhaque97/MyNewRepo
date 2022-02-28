@@ -9,7 +9,7 @@ public class ClassExercise {
 		//execFun.doWhile(2);
 		//execFun.FizzBuzz(999999999);
 		//execFun.swapValues(45, 95);
-		//execFun.findFactorial(10);
+		execFun.findFactorial(10);
 		execFun.fibonacciSequence(20);
 
 	}
